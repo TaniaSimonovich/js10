@@ -1,0 +1,19 @@
+.input{
+    width: 365px;
+    height: 29px;
+    background: #72008069;
+    border: none;
+    border-radius: 6px;
+    margin-top: 26px;
+    margin-left: 71px;
+}
+
+.button{
+    width: 369px;
+    margin-left: 70px;
+    margin-top: 20px;
+    height: 34px;
+    background: #06298c99;
+    color: white;
+    border: none;
+}
